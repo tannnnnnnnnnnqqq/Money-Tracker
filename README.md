@@ -1,4 +1,4 @@
-Money Tracker
+Money Tracker/n
 A simple, Python-based money tracking application that allows users to record, manage, and visualize their financial transactions. This tool is ideal for tracking income and expenses, summarizing data, and plotting trends over time.
 
 Features
